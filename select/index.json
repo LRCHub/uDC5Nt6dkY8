@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Arrietty's Song",
+  "base_artist": "セシル・コルベル",
+  "createdAt": "2026-02-21T13:58:19.626715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arrietty's Song",
+      "artist": "Cecile Corbel",
+      "has_synced": true,
+      "path": "select/01_Arrietty's_Song_Cecile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arrietty's Song",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/02_Arrietty's_Song_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Arrietty's Song",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/03_Arrietty's_Song_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arrietty's Song",
+      "artist": "Cécile Corbel",
+      "has_synced": false,
+      "path": "select/04_Arrietty's_Song_Cécile_Corbel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arrietty's Song",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/05_Arrietty's_Song_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arrietty's Song (Arrietty)",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/06_Arrietty's_Song_(Arrietty)_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arrietty's Song (English version)",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/07_Arrietty's_Song_(English_version)_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Arrietty's Song (English Vocal Version)",
+      "artist": "Cécile Corbel",
+      "has_synced": true,
+      "path": "select/08_Arrietty's_Song_(English_Vocal_Version)_Cécile_Corbel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Arrietty's Song (Japanese Version) (The Borrower Arrietty) (Ettore Rigotti Remix)",
+      "artist": "Imaginary Flying Machines feat. Disarmonia Mundi & Sophia Aslanidou",
+      "has_synced": true,
+      "path": "select/09_Arrietty's_Song_(Japanese_Version)_(The_Borrower_Arrietty)_(Ettore_Rigotti_Remix_Imaginary_Flying_Machines_feat._Disarmonia_Mundi_&_Sophia_Aslanidou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Arrietty's Song (Japanese version) (The Borrower Arrietty) (feat. Disarmonia Mundi & Sophia Aslanidou)",
+      "artist": "Imaginary Flying Machines",
+      "has_synced": true,
+      "path": "select/10_Arrietty's_Song_(Japanese_version)_(The_Borrower_Arrietty)_(feat._Disarmonia_Mun_Imaginary_Flying_Machines.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Arrietty's Song",
+      "artist": "Cecile Corbel",
+      "has_synced": false,
+      "path": "select/pl_01_Arrietty's_Song_Cecile_Corbel.txt"
+    }
+  ]
+}
